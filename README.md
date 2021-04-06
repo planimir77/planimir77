@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Planimir Todorov
 - 👀 I’m interested in programming, healt and sport
-- 🌱 I’m currently learning Angular web framework
+- 🌱 I’m currently learning Data Structures
 - 📫 How to reach me: planimir7708@gmail.com
 
 <!---
