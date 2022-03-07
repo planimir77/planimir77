@@ -2,7 +2,7 @@
 <a href="https://www.facebook.com/planimir.todorov.todorov/">
   <img align="left" alt="Planimir's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-<p><a href="https://www.linkedin.com/in/planimir-todorov-todorov">
+<p><a href="https://www.linkedin.com/in/planimir-todorov-todorov/">
   <img align="left" alt="Planimir's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </br></p>
