@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Data Structures
 
-- 📫 Mail me: planimir7708@gmail.com
+- 📫 Contact me: planimir7708@gmail.com
 
 <!---
 planimir77/planimir77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
