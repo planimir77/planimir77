@@ -1,9 +1,9 @@
 ### 👋 Hi, I’m Planimir Todorov
 <a href="https://www.facebook.com/planimir.todorov.todorov/">
-  <img align="left" alt="Planimir's Facebook" width="22px" src="https://cdn.cdnlogo.com/logos/f/9/facebook.svg" />
+  <img align="left" alt="Planimir's Facebook" width="26px" padding-bottom="5px" src="https://cdn.cdnlogo.com/logos/f/83/facebook.svg" />
 </a>
 <p><a href="https://www.linkedin.com/in/planimir-todorov-todorov/">
-  <img align="left" alt="Planimir's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Planimir's LinkedIn" width="26px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />
 </a>
 </br></p>
 
