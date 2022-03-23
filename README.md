@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Planimir Todorov
 <a href="https://www.facebook.com/planimir.todorov.todorov/">
-  <img align="left" alt="Planimir's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="Planimir's Facebook" width="22px" src="https://cdn.cdnlogo.com/logos/f/9/facebook.svg" />
 </a>
 <p><a href="https://www.linkedin.com/in/planimir-todorov-todorov/">
   <img align="left" alt="Planimir's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
